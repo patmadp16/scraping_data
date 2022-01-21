@@ -1,4 +1,4 @@
-# scraping_data in Twitter using Tweepy
+# How To Scraping data in python
+This repo you can see some methode to scrape data using python.
 
-In this repo you can find some of example scraping data using Tweety library
 
